@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Discover the latest trends in fashion: vibrant colors, bold patterns, and chic accessories"
+    },
+    {
+      "id": "2",
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Discover the latest trends in fashion: vibrant colors, bold patterns, and chic accessories"
+    },
+    {
+      "id": "5",
+      "title": "My First Postss",
+      "datetime": "February 05, 2024 8:49:44 AM",
+      "body": "Discover the latest trends in fashion: vibrant colors, bold patterns, and chic accessories"
+    }
+  ]
+}
